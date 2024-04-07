@@ -1,0 +1,133 @@
+ГОСТ 26342-84
+Средства охранной, пожарной и охранно-пожарной сигнализации. Типы, основные параметры и размеры
+Means of alarm, fire and alarm-fire systems. Types, basic parameters and dimensions
+Действует
+
+ГОСТ 31817.1.1-2012
+Системы тревожной сигнализации. Часть 1. Общие требования. Раздел 1. Общие положения
+Alarm systems. Part 1. General requirements. Section 1. General
+Действует
+
+ГОСТ Р 50658-94
+Системы тревожной сигнализации. Часть 2. Требования к системам охранной сигнализации. Раздел 4. Ультразвуковые доплеровские извещатели для закрытых помещений
+Alarm systems. Part 2. Requirements for intruder alarm systems. Section 4. Ultrasonic doppler detectors for use in buildings
+Действует
+
+ГОСТ Р 50775-95
+Системы тревожной сигнализации. Часть 1. Общие требования. Раздел 1. Общие положения
+Alarm systems. Part 1. General requirements. Section 1. General
+Отменен
+
+ГОСТ Р 52435-2015
+Технические средства охранной сигнализации. Классификация. Общие технические требования и методы испытаний
+Alarm intruder technical means. Classification. General technical requirements and test methods
+Действует
+
+ГОСТ Р 52436-2005
+Приборы приемно-контрольные охранной и охранно-пожарной сигнализации. Классификация. Общие технические требования и методы испытаний
+Control equipment of intruder and intruder-fire alarm systems. Classification. General technical requirements and test methods
+Действует
+
+ГОСТ Р 52551-2006
+Системы охраны и безопасности. Термины и определения
+Guard and security systems. Terms and definitions
+Заменен
+
+ГОСТ Р 52551-2016
+Системы охраны и безопасности. Термины и определения
+Guard and security systems. Terms and definitions
+Действует
+
+ГОСТ Р 53560-2022
+Системы тревожной сигнализации. Источники электропитания. Классификация. Общие технические требования и методы испытаний
+Intruder alarm systems. Power supply units. Classification. General technical requirements and test methods
+Действует
+
+ГОСТ Р 54455-2011
+Системы охранной сигнализации. Методы испытаний на устойчивость к внешним воздействующим факторам
+Alarm systems. Environmental test methods
+Действует
+
+ГОСТ Р 56102.1-2014
+Системы централизованного наблюдения. Часть 1.Общие положения
+Centralized security monitoring systems. Part 1. General statements
+Действует
+
+ГОСТ Р 56102.2-2015
+Системы централизованного наблюдения. Часть 2. Подсистема объектовая. Общие технические требования и методы испытаний
+Centralized security monitoring systems. Part 2. Subsystem for mounting at protected facility. General technical requirements and test methods
+Действует
+
+ГОСТ Р 56102.3-2019
+Системы централизованного наблюдения. Часть 3. Подсистема передачи информации. Общие технические требования и методы испытаний
+CentraIized security monitoring systems. Part 3. Subsystem of information transfer. General technical requirements and test methods
+Действует
+
+ГОСТ Р 57674-2017
+Интегрированные системы безопасности. Общие положения
+Integrated security systems. General
+Действует
+
+## Извещатели #############################################################################################
+
+ГОСТ 32321-2013
+Извещатели охранные поверхностные ударно-контактные для блокировки остекленных конструкций в закрытых помещениях. Общие технические требования и методы испытаний
+Alarms guarding surface shock-contact glass break detectors for use in buildings. General requirements and test methods
+Действует
+
+ГОСТ Р 50659-2012
+Извещатели радиоволновые доплеровские для закрытых помещений и открытых площадок. Общие технические требования и методы испытаний
+Microwave doppler detectors for use in buildings and open areas. General requirements and test methods
+Действует
+
+ГОСТ Р 50777-2014
+Извещатели пассивные оптико-электронные инфракрасные для закрытых помещений и открытых площадок. Общие технические требования и методы испытаний
+Passive infeared detectors for using at different condisions. General requirements and test methods
+Действует
+
+ГОСТ Р 51186-98
+Извещатели охранные звуковые пассивные для блокировки остекленных конструкций в закрытых помещениях. Общие технические требования и методы испытаний
+Alarm sonic passive glass break detectors for use in buildings. General technical requirements and methods of tests
+Отменен
+
+ГОСТ Р 52434-2005
+Извещатели охранные оптико-электронные активные. Общие технические требования и методы испытаний
+Active infra-red detectors. General technical requirements and test methods
+Действует
+
+ГОСТ Р 52650-2006
+Извещатели охранные комбинированные радиоволновые с пассивными инфракрасными для закрытых помещений. Общие технические требования и методы испытаний
+Combined microwave infra-red intrusion detectors for rooms. General technical requirements and test methods
+Действует
+
+ГОСТ Р 52651-2022
+Извещатели охранные линейные радиоволновые для периметров. Общие технические требования и методы испытаний
+Security linear radio wave detectors for perimeters. General technical requirements and test methods
+Действует
+
+ГОСТ Р 52933-2008
+Извещатели охранные поверхностные емкостные для помещений. Общие технические требования и методы испытаний
+Capacitance intrusion detectors for rooms. General technical requirements and test methods
+Статус	Действует
+
+ГОСТ Р 53702-2009
+Извещатели охранные поверхностные вибрационные для блокировки строительных конструкций закрытых помещений и сейфов. Общие технические требования и методы испытаний
+Alarms guarding surface vibration detectors for blocking of structures and safes. General technical requirements and test methods
+Действует
+
+ГОСТ Р 54832-2011
+Извещатели охранные точечные магнитоконтактные. Общие технические требования и методы испытаний
+Alarms are guarding point magnetic contact. General requirements and test methods
+Действует
+
+ГОСТ Р 55150-2012
+Извещатели охранные комбинированные ультразвуковые с пассивными инфракрасными для закрытых помещений. Общие технические требования и методы испытаний
+Combined passive infrared ultrasonic intrusion detectors for use in buildings. General technical requirements and test methods
+Действует
+
+## Оповещатели #############################################################################################
+
+ГОСТ Р 54126-2010
+Оповещатели охранные. Классификация. Общие технические требования и методы испытаний
+Warning devices for intruder alarm systems. Classification. General technical requirements and test methods
+Действует
