@@ -1,0 +1,177 @@
+2.2 Definitions
+
+For the purpose of this standard, the following terms have the meaning indicated.
+
+Abort - A manual intervention during a process that prevents completion of that process.
+Прерывание — ручное вмешательство во время процесса, которое предотвращает его завершение.
+
+Access Code , or Code - A series of digits that a user enters on a keypad to access the system for arming or disarming.
+Код доступа, или Код — последовательность цифр, которую пользователь вводит с клавиатуры для доступа к системе для установки или снятия с охраны.
+
+Account, or Account Number - Information that identifies a particular alarm panel.
+Учетная запись или номер учетной записи — информация, идентифицирующая конкретную сигнальную панель.
+
+ACK, see Acknowledgment.
+Acknowledgment, or ACK, or Positive Acknowledgment - A signal sent from one participant in the communication process to the other indicating that the data has been correctly received.
+Подтверждение, или ACK — сигнал, посылаемый от одного участника процесса связи другому, и указывающий на то, что данные были правильно получены.
+
+Alarm - An indication of an emergency condition. The condition may be that of an intrusion, a fire, a medical panic, etc. Locally the condition usually causes visual and/or audible annunciation. In a system that is monitored, this condition is transmitted to remote equipment.
+Тревога – Индикация чрезвычайного состояния. Это может быть состояние вторжения, пожара, медицинской паники и т. д. На местном уровне состояние обычно вызывает визуальное и/или звуковое оповещение. В контролируемой системе это состояние передается на удаленное оборудование.
+
+Alarm Panel - see Control.
+
+Alarm Cancel, or Manual Reset - An action restoring the alarm panel to a non-alarm state. Also the transmission of that change indicating that the previous alarm signal is to be disregarded.
+Отмена тревоги или ручной сброс – действие, возвращающее панель сигнализации в состояние отсутствия тревоги. Также передача этого изменения указывает на то, что предыдущий сигнал тревоги следует игнорировать.
+
+Alarm Verification – Generic name given to many techniques used to confirm or deny the validity of alarms signals received at the monitoring facility. (Also see Verified Alarm)
+Проверка сигналов тревоги – общее название, данное многим методам, используемым для подтверждения или опровержения достоверности сигналов тревоги, полученных на объекте мониторинга. (См. также «Подтвержденный сигнал тревоги»).
+
+Arm - To turn on a security system.
+Постановка на охрану - Включение системы безопасности.
+
+Area - A defined section of the protected system that can be armed and disarmed independently. This is sometimes also referred to as a partition. When areas are used, they are numbered consecutively beginning with 1.
+Зона — определенная часть защищаемой системы, которую можно ставить и снимать с охраны независимо. Иногда его также называют перегородкой. При использовании областей они нумеруются последовательно, начиная с 1.
+
+Bypass - To cause a system to ignore input changes from a given point or zone, regardless of the arming state. Bypassed points and zones do not cause alarm events. (Also see Zone Bypass, Unbypass)
+Обход – заставить систему игнорировать изменения входа из данной точки или зоны, независимо от состояния постановки на охрану. Исключенные точки и зоны не вызывают тревожных событий. (Также см. Обход зоны, Отмена обхода)
+
+Close, or Closing - The manual or automatic arming of a security system. (Also see Early to Close, Fail to Close, Late to Close)
+Закрывать или закрытие — ручная или автоматическая постановка системы безопасности на охрану. (Также см. «Раннее закрытие», «Неудачное закрытие», «Позднее закрытие»)
+
+Code - see Access Code, User Code
+
+Control, Control Panel, or Alarm Panel - The part of a security system that handles control and communication, whether as combined or separate physical units.
+Панель управления, панель управления или панель сигнализации — часть системы безопасности, которая обеспечивает управление и связь, как в сочетании, так и в виде отдельных физических блоков.
+
+Disarm - To turn off a security system (except for 24 hr devices).
+Снять с охраны – отключить систему безопасности (кроме устройств, работающих круглосуточно).
+
+DTMF or Dual Tone Multi-Frequency – A standard signaling method for dialing and data transmission using a combination of two sine waves at different frequencies. It is 
+commonly referred to as Touch-Tone® signaling.
+DTMF или Dual Tone Multi-Frequency – стандартный метод сигнализации для набора номера и передачи данных с использованием комбинации двух синусоидальных волн на разных частотах. Это
+обычно называют сигнализацией Touch-Tone®.
+
+Duress - A code that can be entered if one or more persons try to force an individual to enter, or re-enter, a facility against the individual’s will.
+Принуждение – код, который можно ввести, если один или несколько человек попытаются заставить человека войти или повторно войти в учреждение против его воли.
+
+Early to Close, or ETC - An event created by the arming of a system before a specified time.
+Раннее закрытие или ETC — событие, создаваемое постановкой системы на охрану до определенного времени.
+
+Early to Open, or ETO - An event created by the disarming of a system before a specified time.
+Раннее открытие или ETO — событие, возникающее при снятии системы с охраны до указанного времени.
+
+Entry Delay or Entry Time - The period of time allowed, after entry to the premises, to disarm the security system before tripping an alarm.
+Задержка на вход или время на вход — период времени, в течение которого после входа в помещение можно отключить систему безопасности до срабатывания сигнализации.
+
+Exit Error – A signal produced by a point or zone that is still violated when the exit time has expired.
+Ошибка выхода – сигнал, подаваемый точкой или зоной, которая все еще нарушается после истечения времени выхода.
+
+Exit Delay, or Exit Time - The period of time allowed, after arming a security system, to exit the premises before tripping an alarm.
+Задержка на выход или время на выход — период времени, в течение которого после постановки системы безопасности на охрану можно покинуть помещение до срабатывания сигнализации.
+
+Fail to Close, or FTC - An event created by the system at a preset time if it remains in the disarmed state.
+Fail to Close, или FTC — событие, создаваемое системой в заданное время, если она остается в состоянии снятия с охраны.
+
+Fail to Open, or FTO - An event created by the system at a preset time if it remains in the armed state.
+Fail to Open, или FTO — событие, создаваемое системой в заданное время, если она остается в состоянии охраны.
+
+Handshake - A signal sent by one end of the communication channel to the other indicating reception of signal.
+Рукопожатие — сигнал, отправленный с одного конца канала связи на другой, указывающий на прием сигнала.
+
+Keypad - The part(s) of a security system from which a human operator can arm and disarm the system, manipulate the system operation, or otherwise interact with the system.
+Клавиатура — часть(и) системы безопасности, с помощью которой человек-оператор может ставить и снимать систему с охраны, управлять работой системы или иным образом взаимодействовать с системой.
+
+Late to Close, or LTC - An event created by the arming of a system after a specified time.
+Позднее закрытие (отложенная постановка на охрану) или LTC — событие, создаваемое постановкой системы на охрану через определенное время.
+
+Late to Open, or LTO - An event created by the disarming of a system after a specified time.
+Позднее открытие (отложеенное снятие) или LTO — событие, создаваемое снятием системы с охраны по истечении определенного времени.
+
+Open, or Opening - The manual or automatic disarming of a security system (see also Early to Open, Fail to Open, Late to Open).
+Открыть или открытие — ручное или автоматическое снятие с охраны системы безопасности (см. также «Раннее открытие», «Неудачное открытие», «Позднее открытие»).
+
+Panic - A general type of perceived emergency, including the presence of one or more unwanted persons trying to gain entry or observed intruders on the private grounds.
+Паника — общий тип предполагаемой чрезвычайной ситуации, включающий присутствие одного или нескольких нежелательных лиц, пытающихся проникнуть внутрь, или наблюдаемых злоумышленников на частной территории.
+
+Partition - see Area.
+Раздел - см. Зона.
+
+Point – an electronically addressable sensor, sometimes used interchangeably with the term sensor. The term is usually used in multiplex alarm systems or for RF (wireless) sensors.
+Точка – датчик с электронной адресацией, иногда используемый как синоним термина «датчик». Этот термин обычно используется в мультиплексных системах сигнализации или для радиочастотных (беспроводных) датчиков.
+
+Receiver - The equipment located at the central station that communicates with a control panel.
+Приемник – оборудование, расположенное на центральной станции и связывающееся с панелью управления.
+
+Recent Closing - A transmission indicating that the security system has recently been armed.
+Недавнее закрытие — сообщение, указывающее, что система безопасности недавно была поставлена на охрану.
+
+Report - An electronic transmission sent by the control panel to the central station containing detailed information about an event detected by or a status of the security system.
+Отчет – электронное сообщение, отправляемое панелью управления на центральный пост, содержащее подробную информацию об обнаруженном событии или состоянии системы безопасности.
+
+Sounder - An audible annunciator producing sufficient volume to be heard by person(s) within the protected premises.
+Звуковой оповещатель – звуковой сигнализатор, обеспечивающий достаточную громкость, чтобы его могли услышать люди, находящиеся в защищаемом помещении.
+
+Subscriber - see User.
+Абонент – см. Пользователь.
+
+Supervisory Signal - A signal indicating the need of action in connection with the supervision of guard tours, fire suppression systems or equipment, or with the maintenance features of related systems. (Not to be confused with a Trouble signal generated from a supervised zone or point.)
+Надзорный сигнал - сигнал, указывающий на необходимость действий в связи с наблюдением за обходами охраны, системами или оборудованием пожаротушения или с особенностями обслуживания связанных систем. (Не путать с сигналом неисправности, генерируемым из контролируемой зоны или точки.)
+
+Transmitter - The part of the security system that sends electronic data outside the system, typically to a central station. (Also see Control Panel.)
+Передатчик — часть системы безопасности, которая отправляет электронные данные за пределы системы, обычно на центральную станцию. (Также см. Панель управления.)
+
+Trip - An alarm state produced as a result of detection by a sensor.
+Некорректное состояние – состояние тревоги, возникающее в результате обнаружения датчиком.
+
+Trouble – A signal sent to indicate a malfunction, miss-operation, or loss of contact with a supervised zone or point.
+Неисправность – сигнал, отправляемый для указания на неисправность, сбой в работе или потерю контакта с контролируемой зоной или точкой.
+
+Unbypass - To restore a point or zone to normal functioning by removing a bypass condition.
+Отмена обхода — восстановление нормального функционирования точки или зоны путем устранения условия обхода.
+
+User - The person(s) at the alarm panel site that operate and/or have access to the system.
+Пользователь — человек(а), находящийся(а) на панели сигнализации, который управляет системой и/или имеет доступ к ней.
+
+User Code - see Access Code.
+Код пользователя – см. Код доступа.
+
+Verified Alarm – An alarm that has been confirmed by monitoring facility contact with the protected premises or an authorized user agent, an alarm from sequentially detected and reported events, a multiple sensor detected event, or an alarm reported by a system user. (Also see Alarm Verification.)
+Подтвержденная тревога – тревога, подтвержденная контактом средства мониторинга с защищаемым помещением или авторизованным агентом пользователя, тревога, вызванная последовательно обнаруженными и сообщенными событиями, событие, обнаруженное несколькими датчиками, или тревога, о которой сообщил пользователь системы. (Также см. Проверка сигналов тревоги.)
+
+Zone - A dedicated input to the control panel containing one or more sensor devices that will trip the input upon activation of any one-sensor device.
+
+Zone Bypass - see Bypass
+
+
+4.1.2.2 Message Composition
+
+The form of the message is:
+
+ACCT MT QXYZ GG CCC
+
+where:
+ACCT = 4 Digit Account number (0-9, B-F)
+
+MT = Message Type. This 2-digit sequence is used to identify the Contact ID message to the receiver. It may be transmitted as either 18 (preferred) or 98 (optional). New receiver implementations shall accept either a 18 or a 98. Note that some older receivers may not accept 98.
+MT = Тип сообщения. Эта последовательность из двух цифр используется для идентификации сообщения Contact ID получателю. Он может передаваться как 18 (предпочтительно) или 98 (необязательно). Новые реализации приемника должны принимать либо 18, либо 98. Обратите внимание, что некоторые старые приемники могут не принимать 98.
+
+Q = Event qualifier, which gives specific event information:
+Q = квалификатор события, который дает конкретную информацию о событии:
+	1 = New Event or Opening
+	3 = New Restore or Closing
+	6 = Previously reported condition still present (Status report)
+	1 = Новое событие или открытие
+	3 = Новое восстановление или закрытие
+	6 = ранее сообщенное состояние все еще присутствует (отчет о состоянии)
+
+XYZ = Event code (3 Hex digits 0-9,B-F) 
+
+GG = Group or Partition number (2 Hex digits 0-9, B-F). Use 00 to indicate that no specific group or partition information applies.
+GG = номер группы или раздела (2 шестнадцатеричные цифры 0–9, B–F). Используйте 00, чтобы указать, что конкретная информация о группе или разделе не применяется.
+
+CCC = Zone number (Event reports) or User # (Open / Close reports ) (3 Hex digits 0-9,B-F ). Use 000 to indicate that no specific zone or user information applies
+CCC = номер зоны (отчеты о событиях) или номер пользователя (отчеты об открытии/закрытии) (3 шестнадцатеричные цифры 0–9, B–F). Используйте 000, чтобы указать, что никакая конкретная зона или информация о пользователе не применимы.
+
+S = 1 Digit Hex checksum calculated such that: (Sum of all message digits + S) MOD 15 = 0
+Note: A ‘0’ shall be transmitted as a 10 and valued as a 10 for checksum purposes even though it is displayed and printed as ‘0’. It uses the same tone pair as the ‘0’ (OPER) key on a standard telephone.
+Примечание. «0» должен передаваться как 10 и оцениваться как 10 для целей контрольной суммы, даже если он отображается и печатается как «0». Он использует ту же пару тонов, что и клавиша «0» (OPER) на стандартном телефоне.
