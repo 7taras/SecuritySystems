@@ -1,5 +1,6 @@
 https://mqtt.org/
 
+https://ipc2u.ru/articles/prostye-resheniya/chto-takoe-mqtt/
 
 Mosquitto: Официальный сайт брокера Mosquitto предоставляет руководство и примеры на русском языке.
 Eclipse Paho: Один из наиболее популярных клиентов MQTT с документацией, переведенной на русский язык.
